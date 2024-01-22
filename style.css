@@ -4,18 +4,18 @@ body{
 }
 
 .main {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     margin-top: 80px;
-    margin-left: -150px;
+    margin-left: 250px;
     
 }
 
 .second {
     position: absolute;
     left: 80px;
-    top: 120px
+    top: 140px
 }
 
 #todoInput {
