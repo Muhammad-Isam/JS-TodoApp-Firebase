@@ -7,6 +7,7 @@ body{
     /* display: flex;
     justify-content: center;
     align-items: center; */
+    position: absolute;
     margin-top: 80px;
     margin-left: 250px;
     
@@ -14,7 +15,6 @@ body{
 
 .second {
     position: absolute;
-    left: 80px;
     top: 140px
 }
 
